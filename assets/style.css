@@ -1,11 +1,6 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li {
-  font-family: sans-serif;
+body {
   color: #444;
+  font-family: sans-serif;
 }
 
 h1,
@@ -128,3 +123,20 @@ a:active {
 /* The order of the state is important. It has to be this exact order. */
 
 /* LVHA */
+
+/* Resolving conflicts */
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: aliceblue;
+} */
