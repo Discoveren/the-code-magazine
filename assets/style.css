@@ -1,3 +1,7 @@
+* {
+  /* border-top: 10px solid #1098ad; */
+}
+
 body {
   color: #444;
   font-family: sans-serif;
@@ -140,3 +144,12 @@ a:active {
 footer p {
   color: aliceblue;
 } */
+
+/* nav a:link,
+nav p {
+  font-size: 18px;
+} */
+
+nav {
+  font-size: 18px;
+}
