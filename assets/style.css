@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
 }
-
+/* page section */
 body {
   color: #444;
   font-family: sans-serif;
@@ -23,7 +23,7 @@ body {
   padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
-  height: 80px;
+  /* height: 80px; */
 }
 
 .post-header {
@@ -38,6 +38,7 @@ article {
   margin-bottom: 60px;
 }
 
+/* SMALLER ELEMENTS */
 aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
@@ -165,6 +166,13 @@ a:hover {
 a:active {
   background-color: black;
   font-style: italic;
+}
+
+nav a:link {
+  background-color: pink;
+  margin: 20px;
+  padding: 20px;
+  display: block;
 }
 
 /* The order of the state is important. It has to be this exact order. */
