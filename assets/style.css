@@ -169,10 +169,10 @@ a:active {
 }
 
 nav a:link {
-  background-color: pink;
+  /* background-color: pink;
   margin: 20px;
   padding: 20px;
-  display: block;
+  display: block; */
 }
 
 /* The order of the state is important. It has to be this exact order. */
